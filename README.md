@@ -74,6 +74,7 @@
   &emsp;
     <a href="#"><img alt="Stack Overflow" src="https://img.shields.io/badge/-Stack%20Overflow-FE7A16?logo=stack-overflow&logoColor=white"></a>
   &emsp;
+	<a href="#"><img alt="TeamCity Simple Build Status" src="https://img.shields.io/teamcity/build/s/:buildId"></a>
 </p>
 
 <br/>
