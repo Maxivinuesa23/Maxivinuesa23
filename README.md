@@ -1,7 +1,7 @@
 
 <h1 align="center">Hola, soy Máximo Vinuesa <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 <p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Computer+Science+Student;Full+Stack+Web+Developer;DS%20|%20AI%20|%20ML%20Enthusiast;Graphic%20Designer;Always%20learning%20new%20things&center=true&width=500&height=50"></a>
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Estudiante++De+Ingenier%C3%ADa+En+Sistemas+De+Informaci%C3%B3n;Estudiante+Avanzado+De+Analista+En+Sistemas;Estudiante+Java+BackEnd+en+Alura" alt="Typing SVG" /></a>
 </p>
 <hr/>
 <h4 align="center">Soy entudiante de la carrera Ingenieria en Sistemas de Información y estudiante avanzado de Analista en Sistemas en la Universidad Nacional de Villa Mercedes (UNViMe). Actualmente me encuentro profundizando mi conocimiento en el desarrollo Backend a traves de Java y Python</h4>
@@ -53,8 +53,6 @@
   &emsp;
     <a href="https://www.mysql.com/"><img alt="MySQL" src="https://img.shields.io/badge/MySQL-%2300f.svg?style=flat&llogo=mysql&logoColor=white"></a>
   &emsp;
-    <a href="https://www.sqlite.org/"><img alt="SQLite" src ="https://img.shields.io/badge/sqlite-%2307405e.svg?style=flat&logo=sqlite&logoColor=white"/></a>
-  &emsp;
     <a href="https://www.github.com"><img alt="GitHub Pages" src="https://img.shields.io/badge/GitHub%20Pages-%23327FC7.svg?style=flat&llogo=github&logoColor=white"></a>
  </p>
   
@@ -80,25 +78,24 @@
 
 <br/>
 
-## 📊 Github Stats (Expand to View) 
+## 📊 Estadisticas De GitHub (Expandir Para Ver) 
 
 
 <details> 
   <summary><b>💻 Estadisticas Perfil de GitHub</b></summary>
   <br/>
   <p align="center">
-    <a href="https://github.com/Maxivinuesa23/github-readme-stats"><img alt="Maxivinuesa23 Estadisticas GitHub" src="https://github-readme-stats.vercel.app/api?username=cMaxivinuesa23&show_icons=true&count_private=true&theme=algolia" height="192px"/></a>
+    <a href="https://github.com/Maxivinuesa23/github-readme-stats"><img alt="Maxivinuesa23 Estadisticas GitHub" src="https://github-readme-stats.vercel.app/api?username=Maxivinuesa23&show_icons=true&count_private=true&theme=algolia" height="192px"/></a>
 <br/>
   &nbsp;
 	  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Maxivinuesa23&show_icons=true&locale=en&layout=compact&theme=algolia" alt="Maxivinuesa23" height="192px"/>
   <br/>
-  <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
   </p>
 </details>
 
 
 <details>
-  <summary><b>⚡ Recent GitHub Activity</b></summary>
+  <summary><b>⚡ Actividad De GitHub Reciente</b></summary>
   <br/>
    <a href="https://github.com/Maxivinuesa23"><img alt="Maxivinuesa23 Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=Maxivinuesa23&custom_title=Maxivinuesa23%20Noronha's%20Contribution%20Graph&theme=react-dark" /></a>
   <br/>
@@ -107,7 +104,7 @@
 
 <br/>
 
-## 🙋‍♀️ Let's Connect
+## 🙋‍♀️ Conectemos!
 <p align="center">
 	<a href="mailto:maxivinuesa23@gmail.com"><img src="https://img.icons8.com/bubbles/50/000000/gmail.png" alt="Gmail"/></a>
 	<a href="[https://github.com/Candida18](https://github.com/Maxivinuesa23)"><img src="https://img.icons8.com/bubbles/50/000000/github.png" alt="GitHub"/></a>
