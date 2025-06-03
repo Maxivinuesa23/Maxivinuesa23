@@ -74,8 +74,6 @@
   &emsp;
     <a href="#"><img alt="Stack Overflow" src="https://img.shields.io/badge/-Stack%20Overflow-FE7A16?logo=stack-overflow&logoColor=white"></a>
   &emsp;
-    <a><img alt="Discord" src="https://img.shields.io/discord/:serverId"></a>
-  &emsp;
     <a href="https://www.jetbrains.com/idea/" target="_blank">
         <img alt="IntelliJ IDEA" src="https://img.shields.io/badge/IntelliJ%20IDEA-%23000000.svg?logo=intellij-idea&logoColor=white">
     </a>
