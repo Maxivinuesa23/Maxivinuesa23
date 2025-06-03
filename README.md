@@ -67,14 +67,28 @@
  ### 👉 Software & Herramientas
  
 <p>
-  &emsp;
-    <a href="#"><img alt="Git" src="https://img.shields.io/badge/Git%20-%23F05033.svg?logo=git&logoColor=white"></a>
-  &emsp;
-    <a href="#"><img alt="Visual Studio Code" src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?logo=visual-studio-code&logoColor=white"></a>
-  &emsp;
-    <a href="#"><img alt="Stack Overflow" src="https://img.shields.io/badge/-Stack%20Overflow-FE7A16?logo=stack-overflow&logoColor=white"></a>
-  &emsp;
-	<a href="#"><img alt="TeamCity Simple Build Status" src="https://img.shields.io/teamcity/build/s/:buildId"></a>
+  &emsp;
+    <a href="#"><img alt="Git" src="https://img.shields.io/badge/Git%20-%23F05033.svg?logo=git&logoColor=white"></a>
+  &emsp;
+    <a href="#"><img alt="Visual Studio Code" src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?logo=visual-studio-code&logoColor=white"></a>
+  &emsp;
+    <a href="#"><img alt="Stack Overflow" src="https://img.shields.io/badge/-Stack%20Overflow-FE7A16?logo=stack-overflow&logoColor=white"></a>
+  &emsp;
+    <a><img alt="Discord" src="https://img.shields.io/discord/:serverId"></a>
+  &emsp;
+    <a href="https://www.jetbrains.com/idea/" target="_blank">
+        <img alt="IntelliJ IDEA" src="https://img.shields.io/badge/IntelliJ%20IDEA-%23000000.svg?logo=intellij-idea&logoColor=white">
+    </a>
+  &emsp;
+    <a href="https://junit.org/junit5/" target="_blank">
+        <img alt="JUnit" src="https://img.shields.io/badge/JUnit-25A162?logo=junit&logoColor=white">
+    </a>
+  &emsp;
+    <a href="https://www.sonarqube.org/" target="_blank">
+        <img alt="SonarQube" src="https://img.shields.io/badge/SonarQube-F0532D?logo=sonarqube&logoColor=white">
+    </a>
+  &emsp;
+    <img alt="Design Patterns" src="https://img.shields.io/badge/Design%20Patterns-blueviolet?style=flat&logoColor=white">
 </p>
 
 <br/>
